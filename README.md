@@ -1,49 +1,53 @@
-# E-boutique de photos de chatons
-
-## Description du projet
-
-Ce projet est une e-boutique fictive où les utilisateurs peuvent acheter des photos de chatons.  
-L’objectif est de préparer l’interface avant de coder l’application en Ruby on Rails.
+# 🐱 Kitten Photo E-Boutique  
+*Exercise for THP "The Hacking Project"*  
 
 ---
 
-## Maquette Penpot
+## 📖 Project Description  
 
-Voici les pages de notre e-boutique (captures d’écran de la maquette Penpot) :
-
-### Page d'accueil
-![Page d'accueil](images/home.png)
-
-### Liste des produits
-![Liste des produits](images/products.png)
-
-### Détails du produit
-![Détails produit](images/product_detail.png)
-
-### Panier
-![Panier](images/cart.png)
+This project is a **fictional e-boutique** where users can buy adorable kitten photos.  
+The main goal is to **design the interface** before coding the application in **Ruby on Rails**.  
 
 ---
 
-## Croquis (Sketching)
+## 🎨 Penpot Mockup  
 
-Avant de créer la maquette sur Penpot, nous avons fait des croquis sur papier pour chaque page :
+Here are the pages of our e-boutique (mockups created with [Penpot](https://penpot.app/)):  
 
-- Page d’accueil : `images/sketch_home.png`
-- Liste des produits : `images/sketch_products.png`
-- Détails du produit : `images/sketch_product_detail.png`
-- Panier : `images/sketch_cart.png`
-
----
-
-## Équipe et relecture
-
-- [Ton nom] – Designer / Développeur
-- Revue effectuée en équipe avec plusieurs cycles de corrections.
+- 🏠 **Homepage**  
+- 🛍️ **Product List**  
+- 📸 **Product Details**  
+- 🛒 **Cart**  
 
 ---
 
-## Liens utiles
+## ✏️ Sketching  
 
-- [Penpot](https://penpot.app/) – outil utilisé pour la maquette
-- [Documentation Ruby on Rails](https://guides.rubyonrails.org/)
+Before working on Penpot, we first created **paper sketches** for each page:  
+
+- 🏠 Homepage → `images/sketch_home.png`  
+- 🛍️ Product List → `images/sketch_products.png`  
+- 📸 Product Details → `images/sketch_product_detail.png`  
+- 🛒 Cart → `images/sketch_cart.png`  
+
+---
+
+## 🤝 Team & Review  
+
+This project was reviewed as a team with **several correction cycles** to improve the design.  
+
+---
+
+## 🔗 Useful Links  
+
+- [🎨 Penpot](https://penpot.app/) – Design tool used for the mockups  
+- [📘 Ruby on Rails Documentation](https://guides.rubyonrails.org/)  
+
+---
+
+## 👩‍💻 Author  
+
+- **Name**: Martine PINNA  
+- **GitHub**: [Martine9670](https://github.com/Martine9670)  
+- **Discord**: Martine PINNA  
+
